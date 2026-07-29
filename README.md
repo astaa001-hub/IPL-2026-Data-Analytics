@@ -1,5 +1,4 @@
-# IPL-2026-Data-Analytics
-# 🏏 IPL 2026 Data Analytics Using Python
+ # IPL 2026 Data Analytics Using Python
 
 A Python-based data analytics project that analyzes IPL 2026 match data using **Pandas** and **Matplotlib**. The project explores team performance, player statistics, toss impact, and batting/bowling insights through data analysis and visualizations.
 
